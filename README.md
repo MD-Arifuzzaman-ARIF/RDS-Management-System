@@ -15,7 +15,7 @@ The main challenge — and learning opportunity — was implementing robust feat
 - **Front-end:** HTML, CSS  
 - **Back-end:** PHP  
 - **Database:** MySQL  
-- **Deployment:** Free hosting site  
+- **Deployment:** Heroku
 
 ---
 
@@ -64,8 +64,5 @@ Import the provided .sql file into your MySQL database.
 Visit 👉 http://localhost/your_project_folder
 
 3. **Configure Database**
-
-Update your config.php (or equivalent) file with your database username, password, and DB name.
-
 
 Update your config.php (or equivalent) file with your database username, password, and DB name.
